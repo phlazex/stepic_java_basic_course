@@ -1,1 +1,3 @@
-# stepic_java_basic_course
+# Java. Базовый курс
+
+https://stepik.org/course/187
